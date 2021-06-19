@@ -1,0 +1,11 @@
+Dataset of Images is given in the drive link ---> https://drive.google.com/drive/u/2/folders/1Xie7x1rz1sxsUx4V4GjnITIJBF5otqzU
+
+Method 1
+========
+Create a folder named "Minor Project" inside the drive and upload "images" folder downloaded from the above link inside "Minor Project".Then mount the drive and run the 
+"Image Classification Model.ipynb" file.
+
+Method 2
+========
+upload the "images" folder downloaded from the above link inside the Drive.Then mount the drive , find out "images" folder from the list and copy path and
+change the DATADIR path provided in the "Image Classification Model.ipynb" file and run it.
